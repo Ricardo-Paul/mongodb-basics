@@ -7,3 +7,5 @@ and the db is hosted on MongoDB Atlas
 this time it hosted locally
 
 ***mongoose.js*** That time we use mongoose instead of the native driver
+
+***Author:*** Ricardo Paul
