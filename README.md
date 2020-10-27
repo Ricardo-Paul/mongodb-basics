@@ -1,0 +1,1 @@
+This is slight introduction to MongoDB, mongoose, and above all MongoDB Atlas
